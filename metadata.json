@@ -1,0 +1,6 @@
+{
+  "name": "Friends2Earn",
+  "description": "Friends2Earn (F2E) - Social Earning and Interactive Isometric Farming Platform with Real-time Multi-Currency Economy Dynamics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
